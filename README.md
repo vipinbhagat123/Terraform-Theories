@@ -20,11 +20,11 @@ A beginner-to-advanced Terraform learning repository focused on practical unders
 - [Lesson 5: Terraform State](modules/05-terraform-state.md)
 
 ### Module 2: Terraform Language
-- Variables
-- Outputs
-- Locals
-- Data sources
-- Expressions and functions
+- [Lesson 6: Variables](modules/06-variables.md)
+- [Lesson 7: Outputs](modules/07-outputs.md)
+- [Lesson 8: Locals](modules/08-locals.md)
+- [Lesson 9: Data Sources](modules/09-data-sources.md)
+- [Lesson 10: Expressions and Functions](modules/10-expressions-and-functions.md)
 
 ### Module 3: Advanced HCL
 - count
